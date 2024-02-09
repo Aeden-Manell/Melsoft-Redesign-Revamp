@@ -1,0 +1,195 @@
+/* Set font family for all elements */
+* {
+    font-family: 'Exo', sans-serif;
+}
+
+/* Set font family for element with ID "our-services" */
+#our-services{
+    font-family: 'Exo', sans-serif;
+}
+
+/* Set background gradient for elements with class "bg-dark" */
+.bg-dark {
+    background: rgb(204,11,131);
+    background: linear-gradient(70deg, rgba(204,11,131,1) 30%, rgba(30,7,66,1) 98%);
+}
+
+/* Set background gradient for elements with class "navbar-dark" */
+.navbar-dark{
+    background: rgb(204,11,131);
+    background: linear-gradient(70deg, rgba(204,11,131,1) 30%, rgba(30,7,66,1) 68%);
+}
+
+/* Set width for elements with class "navbar-brand" */
+.navbar-brand{
+    width: 33px;
+}
+
+/* Set styles for elements with class "nav-link" */
+.nav-link{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+
+/* Set color for elements with class "nav-btn" */
+.nav-btn{
+    color: white;
+}
+
+/* Set styles for elements with class "hero-heading" */
+.hero-heading{
+    color: white;
+    font-weight: 600;
+    font-family: 'Exo', sans-serif;
+    font-size: 53px;
+    margin-bottom: 40px;
+    margin-top: -25px;
+}
+
+/* Set styles for elements with class "hero-paragraph" */
+.hero-paragraph {
+    font-size: 25px;
+    color: white;
+    margin-bottom: 30px;
+    font-family: 'Exo', sans-serif;
+}
+
+/* Set styles for elements with class "hero-btn" */
+.hero-btn{
+    background-color: aliceblue;
+    border: rgb(0, 0, 0) 2px solid;
+    color: black;
+}
+
+/* Set hover styles for elements with class "hero-btn" */
+.hero-btn:hover{
+    background-color: rgb(204,11,131);
+    border-color: white;
+    color: white;
+}
+
+/* Set line height and font size for elements with class "text-white" */
+.text-white{
+    line-height: 55px;
+    font-size: 20px;
+}
+
+/* Set font size for elements with class "w-md-50" */
+.w-md-50{
+    font-size: 20px;
+}
+
+/* Set background color for elements with class "bg-pink" */
+.bg-pink{
+    background: rgba(30,7,66,1);
+}
+
+/* Set border radius for elements with class "img-fluid" */
+.img-fluid{
+    border-radius: 20px;
+}
+
+/* Set font family, weight, and size for element with ID "p-text" */
+#p-text{
+    font-family: 'Exo', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+/* Set styles for elements with class "pt-0" */
+.pt-0{
+    background: rgb(204,11,131);
+    background: linear-gradient(70deg, rgba(204,11,131,1) 30%, rgba(30,7,66,1) 98%);
+    color: white;
+}
+
+/* Set width for elements with class "footer-logo" */
+.footer-logo{
+    width: 300px;
+}
+
+/* Set styles for elements with class "fw-bold" */
+.fw-bold{
+    color: white;
+    font-size: 25px;
+    font-family: 'Exo', sans-serif;    
+}
+
+/* Set color for element with ID "footer-text" */
+#footer-text {
+    color: white;
+}
+
+/* Set padding, background, color, and border styles for elements with class "pb-02" */
+.pb-02{
+    padding-top: 400px;
+    background: rgba(30,7,66,1);
+    color: white;
+    border-bottom: rgb(255, 255, 255) 2px solid;
+    border-top: rgb(255, 255, 255) 2px solid;
+}
+
+/* Set padding-right, color, and font size for elements with class "about-text" */
+.about-text{
+    padding-right: 90px;
+    color: white;
+    font-size: 20px;
+}
+
+/* Set border style for elements with class "img-about" */
+.img-about{
+    border: solid white 4px;
+}
+
+/* Set padding-top for elements with class "hero-div" */
+.hero-div{
+    padding-top: 70px;
+}
+
+/* Set color, font weight, family, size, and text alignment for elements with class "blog-h2" */
+.blog-h2{
+    color: rgba(30,7,66,1);
+    font-weight: 600;
+    font-family: 'Exo', sans-serif;
+    font-size: 53px;
+    margin-bottom: 40px;
+    margin-top: -25px;
+    text-align: center;
+}
+
+/* Set color, font size, margin-bottom, font family, font weight, and text alignment for elements with class "blog-h3" */
+.blog-h3{
+    font-size: 30px;
+    color: rgb(204,11,131);
+    margin-bottom: 30px;
+    font-family: 'Exo', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* Set padding-top and margin-bottom for element with ID "blog-div" */
+#blog-div{
+    padding-top: 150px;
+    margin-bottom: 100px;
+}
+
+/* Set font weight, size, and color for elements with ID "bg" */
+#bg{
+    font-weight: 700;
+}
+
+/* Set color, font size, font family, padding-top, and font weight for elements with class "reviews-h2" */
+.reviews-h2{
+    color: white;
+    font-size: 50px;
+    font-family: 'Exo', sans-serif;    
+    padding-top: 30px;
+    font-weight: 600;
+}
+
+/* Set background gradient for elements with class "bg-dark3" */
+.bg-dark3{
+    background: rgb(204,11,131);
+    background: linear-gradient(70deg, rgba(204,11,131,1) 23%, rgba(30,7,66,1) 50%);
+}
